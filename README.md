@@ -1,4 +1,4 @@
-# yale-cs433-project:
+#Yale-CS433-Project:
 #Link State and Distance Vector Routing
 
 In this project, we will be using the emerging ns-3 discrete network simulator (www.nsnam.org) to design and implement core routing protocols. Please
