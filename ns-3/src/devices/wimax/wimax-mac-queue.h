@@ -114,7 +114,7 @@ public:
   void SetFragmentation (MacHeaderType::HeaderType packetType);
   void SetFragmentNumber (MacHeaderType::HeaderType packetType);
   void SetFragmentOffset (MacHeaderType::HeaderType packetType, uint32_t offset);
-private:
+//private:
   struct QueueElement
   {
     QueueElement (void);

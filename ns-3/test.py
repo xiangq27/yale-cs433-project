@@ -165,9 +165,9 @@ example_tests = [
     ("wireless/wifi-simple-interference", "True", "True"),
     ("wireless/wifi-wired-bridging", "True", "True"),
 
-    ("wimax/wimax-simple", "True", "True"),
-    ("wimax/wimax-ipv4", "True", "True"),
-    ("wimax/wimax-multicast", "True", "True"),
+#    ("wimax/wimax-simple", "True", "True"),
+#    ("wimax/wimax-ipv4", "True", "True"),
+#    ("wimax/wimax-multicast", "True", "True"),
 ]
 
 #
